@@ -57,7 +57,7 @@ A sample attendance dataset with the following structure:
 ---
 
 ## 🖼️ Preview
-
+Dashboard image:- https://github.com/aabhhayy/Employee-Attendance-Analysis/blob/main/emp_att_analytics.jpg
 
 
 ---
